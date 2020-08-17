@@ -5,6 +5,15 @@ Face API project
 2.Find Similar Faces of all the images.
 3.Return the image and coordinates to the most common and largest face.
 
+before running:
+# Set the FACE_SUBSCRIPTION_KEY environment variable with your key as the value.
+# This key will serve all examples in this document.
+'FACE_SUBSCRIPTION_KEY' = YOUR SUBSCRIPTION KEY
+
+# Set the FACE_ENDPOINT environment variable with the endpoint from your Face service in Azure.
+# This endpoint will be used in all examples in this quickstart.
+'FACE_ENDPOINT' = YOUR ENDPOINT
+
 To run the program :
  run main.py via python main.py or use IDE to run it .
 
