@@ -2,9 +2,9 @@
 ## Face API project
 
 ### What id does?
-1.Detect Faces in Images.
-2.Find Similar Faces of all the images.
-3.Return the image and coordinates to the most common and largest face.
+  * Detect Faces in Images.
+  * Find Similar Faces of all the images.
+  * Return the image and coordinates to the most common and largest face.
 
 ### Configurations
 Before running:
