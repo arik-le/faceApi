@@ -5,6 +5,12 @@ Face API project
 2.Find Similar Faces of all the images.
 3.Return the image and coordinates to the most common and largest face.
 
+To run the program :
+ run main.py via python main.py or use IDE to run it .
+
+To excute request:
+POST request to uri: http://localhost:5000/ with payload example describe below
+
 Input example:
 {
   "images":["http://google.com/photos/john-f-kennedy.jpg",
