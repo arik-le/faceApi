@@ -1,0 +1,38 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyArgumentListInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="3">
+            <item index="0" class="java.lang.String" itemvalue="Pillow" />
+            <item index="1" class="java.lang.String" itemvalue="docusign_esign" />
+            <item index="2" class="java.lang.String" itemvalue="dateutil" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="crypto" />
+          <option value="backoffice.crypto.helpers" />
+          <option value="dict.__setitem__" />
+          <option value="object.credit" />
+          <option value="object.debit" />
+          <option value="risk.services.utils.CompanyStruct.txn_num" />
+          <option value="object.txn_num" />
+          <option value="risk.services.utils.CompanyStruct.turn_over" />
+          <option value="object.turn_over" />
+          <option value="risk.services.utils.CompanyStruct.txn_count" />
+          <option value="risk.services.utils.CompanyStruct.txn_amount" />
+          <option value="risk.services.utils.CompanyStruct.beneficiaries" />
+          <option value="risk.*" />
+          <option value="server.main.manager" />
+          <option value="server.main.helpers" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
